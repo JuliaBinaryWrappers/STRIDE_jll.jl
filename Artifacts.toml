@@ -1,0 +1,143 @@
+[[STRIDE]]
+arch = "aarch64"
+git-tree-sha1 = "0283b0f034bdba8fbab43c08e9fb67584c7cce2c"
+os = "macos"
+
+    [[STRIDE.download]]
+    sha256 = "9621567c12276154e77f2e33a9f7deac648e1b39b1c3140be8b3ac8d909ee96b"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[STRIDE]]
+arch = "aarch64"
+git-tree-sha1 = "3310049e30ad2e112ace5f00c1d9d61f80ee55d8"
+libc = "glibc"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "980f1e7e4d3c484a2fee913835cdb80d8aaa1db6f410d41f193a5b05b68f5ec9"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[STRIDE]]
+arch = "aarch64"
+git-tree-sha1 = "867cfe0a8770643bff191d85015a5faea7f22456"
+libc = "musl"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "afe7d0f8bbc5585899396ed9733f33875d5616300c9f462b5a5dbc0ebe035c72"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.aarch64-linux-musl.tar.gz"
+[[STRIDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "40f78971c23adb63e58c40d4ed20a1d6fb993e75"
+libc = "glibc"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "995d3cebe9e9e00287784579ef8772837002a63334ccd4ca09fdc651221aaadc"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[STRIDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5a735faaed39eb52fb5cf9c777ca2132100c719e"
+libc = "musl"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "cee61f181b080c2da7c4c3b71d625f62fc285fc2ac91c4c60e170f1272457345"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[STRIDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d370916987593ff9b14f5700e099211f3cbcf91c"
+libc = "glibc"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "37a18222fa965f219a93346cc594e95930524aeea05dab1e6f3b0201747c022e"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[STRIDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f178dc9b94c6c30c58e3a4a4a7933e22eabcc322"
+libc = "musl"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "116a57729465daad024a5b755f604311f68306f4d252e25fe48c8e05cca1d18e"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[STRIDE]]
+arch = "i686"
+git-tree-sha1 = "851a0628302072faa96dddff9e170c08ddae6646"
+libc = "glibc"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "ff10f70d590c1e640925a8193d05aeb1019e2b731b677d2bca2a4593084df72c"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.i686-linux-gnu.tar.gz"
+[[STRIDE]]
+arch = "i686"
+git-tree-sha1 = "582e9e3ce23fb682e328dc1331c9f5f889a04789"
+libc = "musl"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "406f191530413fec7bebd47116d6be840e171f263d3f2c92776300509a3a38a7"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.i686-linux-musl.tar.gz"
+[[STRIDE]]
+arch = "i686"
+git-tree-sha1 = "6e0ad03c46599208108737b60dd82c84f9167046"
+os = "windows"
+
+    [[STRIDE.download]]
+    sha256 = "3e55f6fa90ff72201ef3e7320ddf0c2406d16eddeaaa857aa74e153932c66df2"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.i686-w64-mingw32.tar.gz"
+[[STRIDE]]
+arch = "powerpc64le"
+git-tree-sha1 = "bed157d6ebd7ba8e97bf8ef2366c02e3912a8a27"
+libc = "glibc"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "c2bb715f17f2a0250648e6c4e9b3711b18f8bb8db78126c2cad21e698308ac49"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[STRIDE]]
+arch = "x86_64"
+git-tree-sha1 = "085c0fdf6b85faef1ee6725b8bf3ac98e5c8109d"
+os = "macos"
+
+    [[STRIDE.download]]
+    sha256 = "a621f34e384196976a4a44a53e904fa2f9a861358ed34015dab3bce3c50768cc"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[STRIDE]]
+arch = "x86_64"
+git-tree-sha1 = "d5b30ebced3f3de269a3489e10c85c81eae13b0d"
+libc = "glibc"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "5283500220349ac4b01ee9173b5d258067544216efe8bc7b82f06cf1bc5542d8"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[STRIDE]]
+arch = "x86_64"
+git-tree-sha1 = "50b876689bc6e7c6b379e61c903eceb53c501889"
+libc = "musl"
+os = "linux"
+
+    [[STRIDE.download]]
+    sha256 = "abb3f7e8969e12ccf15d248e3b17fec30388c34561f938a1caecefa8c6ddc953"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.x86_64-linux-musl.tar.gz"
+[[STRIDE]]
+arch = "x86_64"
+git-tree-sha1 = "fa0189372313f4eb2785f9c5d1546ff33ca32da6"
+os = "freebsd"
+
+    [[STRIDE.download]]
+    sha256 = "30297a2e868a4e3fe442d68f0b26d2d42d350ed4363cb7c2586f8f274908e3eb"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[STRIDE]]
+arch = "x86_64"
+git-tree-sha1 = "0697b3978ee37b0ac639c50d9424db1f9b9f9542"
+os = "windows"
+
+    [[STRIDE.download]]
+    sha256 = "6f3612399e2ba6ba0344d7c84ae8785ad9e362b9e852d6e6944fb9dddc89e3e6"
+    url = "https://github.com/JuliaBinaryWrappers/STRIDE_jll.jl/releases/download/STRIDE-v1.0.0+0/STRIDE.v1.0.0.x86_64-w64-mingw32.tar.gz"
